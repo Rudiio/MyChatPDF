@@ -1,0 +1,8 @@
+langchain
+openai
+langchain-openai
+transformers
+sentence-transformers==2.2.1
+pydentic
+chromadb
+protobuf
